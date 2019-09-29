@@ -15,21 +15,21 @@
 }
 .menu ul{
 	display: inline-flex;
-	margin: 50px;
+	margin: 30px ;
 }
 .menu ul li{
 	list-style: none;
-	margin: 0 20px;
+	margin: 0 20px -200px ;
 	color: white;
 	cursor: pointer;
 	font-size: 24px;
 
 }
 .logo img{
-	width: 200px;
+	width: 150px;
 	margin-top: -44px;
 	margin-right: 38px;
-	margin-bottom: -44px;
+	margin-bottom: -94px;
 }
 h1{
 	text-align: center;
@@ -43,7 +43,7 @@ h1{
 
 }
 .gallery img{
-	width: 330px;
+	width: 400px;
 	padding: 10px;
 
 }
@@ -56,7 +56,13 @@ h1{
 }
 .products img{
 	width:400px;
-	height: 300px;
 	padding: 10px;
 
 }
+.center{
+	display:block;
+	margin-left:auto;	
+	margin-right:auto;
+	width:50%;
+}
+
