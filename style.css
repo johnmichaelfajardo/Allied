@@ -62,9 +62,6 @@
 .two a:visited{
 color: LightGray;
 }
-a {
-  color: LightGray;
-}
 .two a{
 text-decoration: none;
 }
