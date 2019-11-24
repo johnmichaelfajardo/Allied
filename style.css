@@ -19,11 +19,11 @@
 }
 .menu ul li{
 	list-style: none;
-	margin: 30px ;
+	margin: 15px ;
 	color: blue;
 	cursor: pointer;
 	font-size: 12px;
-	text-align: center;
+	
 	
 }
 .logo {
