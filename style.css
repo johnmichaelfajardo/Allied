@@ -40,7 +40,7 @@
 	
 }
 	
-.two ul li a{
+.two ul li{
 	position: relative;
 	left: 800px;
 	top: -80px;
@@ -59,10 +59,10 @@
 .two li:hover {
  	color: Black;		
 }
-.two a:visited{
+.two :visited{
 color: LightGray;
 }
-.two a{
+.two li a{
 text-decoration: none;
 }
 
