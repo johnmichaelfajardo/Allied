@@ -62,7 +62,7 @@
 .two :visited{
 color: LightGray;
 }
-.two li a{
+.two a{
 text-decoration: none;
 }
 
