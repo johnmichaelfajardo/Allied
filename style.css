@@ -62,8 +62,8 @@
 .two a:visited{
 color: LightGray;
 }
-.two a:active{
-color: LightGray;
+a {
+  color: LightGray;
 }
 .two a{
 text-decoration: none;
