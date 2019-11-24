@@ -59,7 +59,10 @@
 .two li:hover {
  	color: Black;		
 }
-.two :visited{
+.two a:visited{
+color: LightGray;
+}
+.two a:active{
 color: LightGray;
 }
 .two a{
